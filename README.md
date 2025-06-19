@@ -1,3 +1,3 @@
-# task_1
+# paranora-ecomm-website
 
 A new Flutter project.
